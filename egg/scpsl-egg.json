@@ -1,11 +1,11 @@
 {
-    "_comment": "DO NOT EDIT: FILE GENERATED AUTOMATICALLY BY PTERODACTYL PANEL - PTERODACTYL.IO",
+    "_comment": "EGG"
     "meta": {
         "version": "PTDL_v2",
         "update_url": null
     },
     "exported_at": "2023-11-18T14:02:28+01:00",
-    "name": "SCP:SL",
+    "name": "SCP:SecretLaboratory",
     "author": "paparoma511@gmail.com",
     "description": "Egg for SCP: Secret Laboratory Dedicated Linux Server",
     "features": [
