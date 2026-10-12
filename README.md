@@ -5,12 +5,8 @@
 🇷🇺 Русский
 Простой и понятный гайд по установке SCP: Secret Laboratory Dedicated Server на собственный VPS с использованием Pterodactyl Panel + Wings.
 
-В руководстве также рассматриваются LabAPI, настройка портов, создание сервера и импорт собственного Egg в формате ".json".
-
 🇬🇧 English
 A simple and easy-to-follow guide for installing SCP: Secret Laboratory Dedicated Server on your own VPS using Pterodactyl Panel + Wings.
-
-The guide also covers LabAPI, EXILED, port configuration, server creation, and importing your own ".json" Egg.
 
 ---
 
@@ -49,11 +45,8 @@ Other operating systems may work, but the commands and installation process may 
 - 🌐 Node и Allocation
 - 🧪 SCP: Secret Laboratory Dedicated Server
 - 📦 Custom Pterodactyl Egg
-- 🔌 LabAPI
 - 🔥 Firewall
 - 🚀 Первый запуск / First launch
-- 🔧 Базовая диагностика / Basic troubleshooting
-
 ---
 
 ⚠️ Important / Важно
